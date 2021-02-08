@@ -1,3 +1,7 @@
+v2.0.3
+- Fixed: Reset count when the stream is closed
+- Fixed: Add missing initialisation of display name with underscores after fixing slow epg
+
 v2.0.2
 - Added: restart stream if max count stalled
 - Added: send a request to restart the stream
