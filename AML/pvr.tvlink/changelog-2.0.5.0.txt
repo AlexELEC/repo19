@@ -1,6 +1,3 @@
-v2.0.6
-- Fixed: install requires addons
-
 v2.0.5
 - Fixed: Add support for format specifiers use for detecting terminating catchup and granularity
 
