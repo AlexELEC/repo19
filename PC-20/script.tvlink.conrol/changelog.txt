@@ -1,0 +1,9 @@
+2.1.0
+- for Nexus and TVLINK-3.0.3
+- Add: function Next Stream
+
+2.0.0
+- for Matrix
+
+1.0.0
+- Init addon

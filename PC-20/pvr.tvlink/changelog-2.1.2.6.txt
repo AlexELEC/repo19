@@ -1,3 +1,14 @@
+v2.1.2
+- Added: redo switch streams
+- Added: options Stream control
+- Added: enable/disable Buffering streams
+
+v2.1.1
+- Added: redo Catchup TVLINK-3.0.2
+
+v2.1.0
+- Fixed: Kodi main API update to version 2.0.0
+
 v2.0.9
 - Added: Token for authorization of streams
 
