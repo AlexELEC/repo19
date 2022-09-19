@@ -1,6 +1,12 @@
+2.2.0
+- for TVLINK-3.2.0
+- add: Update sources button
+- fix: sources names and urls
+- fix: show catchup urls
+
 2.1.0
 - for Nexus and TVLINK-3.0.3
-- Add: function Next Stream
+- add: function Next Stream
 
 2.0.0
 - for Matrix
