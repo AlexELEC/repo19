@@ -1,3 +1,6 @@
+2.2.1
+- add: Info current streams button
+
 2.2.0
 - for TVLINK-3.2.0
 - add: Update sources button
