@@ -1,3 +1,6 @@
+v2.3.0
+- Fixed: Rename sourses
+
 v2.2.2
 - Fixed: Stream buffering mode
 
