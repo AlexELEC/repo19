@@ -1,3 +1,6 @@
+2.2.2
+- add: RAM and Sockets info Server
+
 2.2.1
 - add: Info current streams button
 
